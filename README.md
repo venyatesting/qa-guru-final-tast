@@ -4,15 +4,15 @@
 
 ## Тестируемая система
 
-Приложение	FastAPI (Python 3.11), 3 инстанса
+Приложение:	FastAPI (Python 3.11), 3 инстанса
 
-Мониторинг	Telegraf, Prometheus, Grafana
+Мониторинг:	Telegraf, Prometheus, Grafana
 
-База данных	PostgreSQL
+База данных:	PostgreSQL
 
-Балансировщик	Nginx
+Балансировщик:	Nginx
 
-Запуск	Docker Compose
+Запуск:	Docker Compose
 
 ## Материалы проекта
 
