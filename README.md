@@ -25,4 +25,7 @@ Docs - Документы
 ## Запуск и остановка приложения приложения
 
 cd perfornance-shop
+
 docker-compose up -d
+
+docker-compose down --remove-orphans
