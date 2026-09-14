@@ -29,3 +29,5 @@ cd perfornance-shop
 docker-compose up -d
 
 docker-compose down --remove-orphans
+
+docker ps -a (проверка работы контейнеров)
